@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aanya
+# 👋 Hi, I’m Aanya
 - 👀 I’m interested in coding, music and web development along with machine learning
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on web development application
