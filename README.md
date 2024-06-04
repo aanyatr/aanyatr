@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Aanya
-- 👀 I’m interested in coding, music and web development along with machine learning.
+- 👀 I’m interested in data science, web development and machine learning.
+- I'm currently working on an ML project that classifies DME into 3 grades using a CNN model trained from scratch.
+- 
 - 📫 How to reach me:
   - https://www.linkedin.com/in/aanya-tripathi-776598219/
     
