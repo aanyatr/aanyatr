@@ -1,4 +1,3 @@
-![Github Banner]()
 <img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/0e1febff-10fe-41c7-9d93-13309e53434c">
 
 <p align="center">
